@@ -11,9 +11,6 @@
     Comparison points is the total points a person earned.
 
     Given a and b, determine their respective comparison points.
-
-    #include <iostream>
-    using namespace std;
 */
 
 #include <iostream>
