@@ -1,0 +1,10 @@
+Bitwise Operators
+
+    -Why?
+    1) Bitwise operators are very fast.
+    2) Bits => everything is stored in the form of bits
+    3) /, *                 O(N^2)
+    4) %                    O(N^3)
+    5) ^, &, |, <<, >>, ~    O(N)
+
+He goes on to discuss bitwise operators....You know this shit
