@@ -1,3 +1,8 @@
+/*
+    Problem Statement:
+        Display the count of Partitions with given difference
+*/
+
 #include <iostream>
 using namespace std;
 

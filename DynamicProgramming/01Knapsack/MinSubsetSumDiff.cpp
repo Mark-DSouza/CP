@@ -1,3 +1,8 @@
+/*
+    Problem Statement:
+        Display the minimum possible partition difference.
+*/
+
 #include <iostream>
 #include <climits>
 #include <vector>

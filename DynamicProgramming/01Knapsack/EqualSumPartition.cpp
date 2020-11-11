@@ -1,3 +1,8 @@
+/*
+    Problem Statement:
+        Can the set be partitioned into 2 subsets of equal sum. Display the boolean.
+*/
+
 #include <iostream>
 using namespace std;
 
